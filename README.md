@@ -59,8 +59,7 @@ The program runs for 10 seconds, during which the producer and consumer operate 
 
 
 ### Directory Structure
-
-    ```plaintext
+    ```
     ├── multithreading.py   # Main application file containing the producer and consumer functions
     ├── requirements.txt    # List of Python dependencies
     ├── Dockerfile          # Docker configuration file (optional)
